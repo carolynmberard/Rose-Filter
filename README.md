@@ -141,4 +141,5 @@ Good sub-questions to ask:
 ## Resources
 _Feel free to PR any useful resources! :)_
 
-* [Slides](https://docs.google.com/presentation/d/14UO36CnVCsVjcavyFn6JCsSTnuRT3NIdPW0XI9Ypm-c/edit?usp=sharing)
+  [Slides](https://docs.google.com/presentation/d/14UO36CnVCsVjcavyFn6JCsSTnuRT3NIdPW0XI9Ypm-c/edit?usp=sharing)
+  [HEX Code Intro](https://www.youtube.com/watch?v=6cJd7eyYBFs)
